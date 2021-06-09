@@ -30,7 +30,7 @@ Give an config example
 Ticketdetail = [{'issueid':'JO-465','commoncomment':'commoncomment testing from config','timespent':'5h',
                  'worklogcomment':'configworklog comment','author':'rpandi@zeomega.com'},
                  {'issueid':'JO-272','commoncomment':'commoncomment testing from config','timespent':'5h',
-                 'worklogcomment':'scheduler comment','author':'rpandi@zeomega.com'},
+                 'worklogcomment':'scheduler comment','author':''},
 
                  ]
 
@@ -44,4 +44,4 @@ git@git.zeomega.com:rpandi/Karmic-TimeEntryAutomation.git/mater
 
 ## Authors
 
-* **Rajesh Kanna Pandi** -krajesh@zeomega.com
+* **Rajesh Kanna Pandi** -
